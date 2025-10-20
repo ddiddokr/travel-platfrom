@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9dad569-5b58-418b-a839-a35eac722d4f" name="변경" comment="mistake">
-      <change afterPath="$PROJECT_DIR$/frontend/read123.md" afterDir="false" />
-    </list>
+    <list default="true" id="f9dad569-5b58-418b-a839-a35eac722d4f" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760944681303</updated>
-      <workItem from="1760944682420" duration="1035000" />
+      <workItem from="1760944682420" duration="1069000" />
     </task>
     <task id="LOCAL-00001" summary="mistake">
       <option name="closed" value="true" />
